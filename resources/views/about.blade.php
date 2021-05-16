@@ -87,12 +87,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    OIKÓS
+                    SOBRE
                 </div>
                 <p class="m-b-md">
                     Criado por <strong>IBP</strong>
                 </p>
-                <a class="btn btn-primary" href="{{ url('about') }}">Saiba mais</a>
+                <a class="btn btn-primary" href="{{ url('/') }}">Voltar</a>
             </div>
         </div>
     </body>
